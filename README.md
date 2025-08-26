@@ -3,10 +3,9 @@
  Projeto para estudos, para revisar estrutura do nest js.
 
 Libs externas:
-
-            swagger;
-            class-validator;
-            classe-transforme;
+swagger
+class-validator
+classe-transforme
 
 ## Instalação das dependencias.
 
